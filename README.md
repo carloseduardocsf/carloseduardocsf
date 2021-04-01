@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Carlos Eduardo Cavalcanti 🙎‍♂️
+
+I'm a computer engineering student at Federal University of Paraíba 📚
+
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face change.
 <!--
 **carloseduardocsf/carloseduardocsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
