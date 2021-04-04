@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Carlos Eduardo Cavalcanti 🙎‍♂️
+My name is Carlos Eduardo 🙎‍♂️
 
 I'm a computer engineering student at Federal University of Paraíba 📚
 
