@@ -2,7 +2,7 @@
 
 My name is Carlos Eduardo 
 
-I'm a computer engineering student at Federal University of Paraíba 📚
+I'm a computer engineering student at Federal University of Paraíba 
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face change.
 <!--
