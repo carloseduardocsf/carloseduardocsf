@@ -2,6 +2,18 @@
 
 ## My name is Carlos Eduardo 
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carloseduardocsf)](https://github.com/carloseduardocsf)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-cavalcanti-219a731ab/)](https://www.linkedin.com/in/carlos-cavalcanti-219a731ab/)
+
+
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseduardocsf&theme=radical&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardocsf&layout=compact)](https://github.com/carloseduardocsf/github-readme-stats)
+
 I'm a computer engineering student at [Federal University of Paraíba](http://ci.ufpb.br/)
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face change.
