@@ -1,5 +1,3 @@
-<img src="https://gist.githubusercontent.com/rowhitswami/8e1b262ffc0f2368890b72fbe26bacb5/raw/068f8cb8d21e579e5d46f75918c64eeaf97f19a0/hello.gif" width="400" height="150" />
-
 ## My name is Carlos Eduardo 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carloseduardocsf)](https://github.com/carloseduardocsf)
@@ -29,5 +27,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me 
 - 😄 Pronouns 
 - ⚡ Fun fact 
+- <img src="https://gist.githubusercontent.com/rowhitswami/8e1b262ffc0f2368890b72fbe26bacb5/raw/068f8cb8d21e579e5d46f75918c64eeaf97f19a0/hello.gif" width="400" height="150" />
 -->
  
