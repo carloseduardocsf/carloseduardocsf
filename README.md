@@ -7,7 +7,7 @@ I'm a computer engineering student at [Federal University of Paraíba](http://ci
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face change.
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseduardocsf&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseduardocsf&theme=radial&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardocsf&layout=compact)](https://github.com/carloseduardocsf/github-readme-stats)
 
