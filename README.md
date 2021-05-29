@@ -11,6 +11,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseduardocsf&theme=radical&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardocsf&layout=compact&theme=radical)](https://github.com/carloseduardocsf/github-readme-stats)
 
 
 
