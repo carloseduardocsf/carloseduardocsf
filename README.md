@@ -14,6 +14,12 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardocsf&layout=compact&theme=radical)](https://github.com/carloseduardocsf/github-readme-stats)-->
 
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carloseduardocsf&repo=carloseduardocsf)](https://github.com/carloseduardocsf/carloseduardocsf)-->
+
+
+
+
+
 
 
 <!--
