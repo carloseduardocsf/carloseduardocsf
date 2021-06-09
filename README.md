@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me 
 - 😄 Pronouns 
 - ⚡ Fun fact 
+
 - <img src="https://gist.githubusercontent.com/rowhitswami/8e1b262ffc0f2368890b72fbe26bacb5/raw/068f8cb8d21e579e5d46f75918c64eeaf97f19a0/hello.gif" width="400" height="150" />
 - <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carloseduardocsf&" alt="carloseduardocsf" /></p>
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardocsf&layout=compact)](https://github.com/carloseduardocsf/github-readme-stats)
