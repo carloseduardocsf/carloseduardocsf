@@ -12,31 +12,10 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseduardocsf&theme=radical&show_icons=true)
 
+
+
+
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardocsf&layout=compact&theme=radical)](https://github.com/carloseduardocsf/github-readme-stats)-->
-
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carloseduardocsf&repo=carloseduardocsf)](https://github.com/carloseduardocsf/carloseduardocsf)-->
-
 
 <!--[Snake animation](https://github.com/carloseduardocsf/carloseduardocsf/blob/output/github-contribution-grid-snake.svg)-->
 
-
-
-
-<!--
-**carloseduardocsf/carloseduardocsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
- ### Hi there 👋
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about 
-- 📫 How to reach me 
-- 😄 Pronouns 
-- ⚡ Fun fact 
-
-- <img src="https://gist.githubusercontent.com/rowhitswami/8e1b262ffc0f2368890b72fbe26bacb5/raw/068f8cb8d21e579e5d46f75918c64eeaf97f19a0/hello.gif" width="400" height="150" />
-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carloseduardocsf&" alt="carloseduardocsf" /></p>
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardocsf&layout=compact)](https://github.com/carloseduardocsf/github-readme-stats)
--->
- 
