@@ -10,7 +10,7 @@ Computer Engineer graduated from the [Federal University of Paraíba](http://ci.
 Currently working with: TypeScript, Next.js, React, Node.js, PostgreSQL, Prisma, Docker
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseduardocsf&theme=radical&show_icons=true)  
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carloseduardocsf&theme=radical&show_icons=true)-->  
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carloseduardocsf&layout=compact&theme=radical)](https://github.com/carloseduardocsf/github-readme-stats)-->
